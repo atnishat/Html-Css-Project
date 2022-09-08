@@ -1,0 +1,438 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.discount {
+    width: 100%;
+    height: 60px;
+    background-color: #00415F;
+}
+.discount-div {
+    padding-top: 20px;
+    text-align: center;
+     font-family: 'Lobster', cursive;
+    font-size: 23px;
+line-height: 0.9;
+letter-spacing: 0.07em;
+font-weight: 500;
+    color: white;
+  
+}
+.discount-div p a{
+    
+    text-decoration: none;
+    font-size: 34px;
+line-height: 16px;
+letter-spacing: 4.55px;
+font-weight: 400;
+color: #14D3DE;
+     font-family: 'Teko' ,sans-serif
+    
+}
+
+.first{
+   width: 1320px;
+     margin: auto;
+}
+
+.banner{
+    background-image: url(../image/image109.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 100px;
+}
+
+.headmenu {
+    padding-bottom: 180px;
+}
+
+.headmenu ul{
+    padding-left: 85px;
+    
+    
+}
+
+.headmenu ul li {
+    
+    list-style: none;
+    display: inline-block;
+
+}
+.headmenu ul li a{
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 65px;
+    display: block;
+    padding: 0 15px;
+     font-family: 'Ropa Sans', sans-serif;
+    color:#0a276c;
+    text-transform: uppercase;
+}
+.headmenu a:hover{
+background-color:#f1f5f5;
+
+}
+
+.head {
+width: 1260px;
+height: 70px;
+margin: auto;
+padding: 15px;
+}
+.menu {
+text-align: center;
+font-size: 45px;
+font-style: italic;
+font-weight: 800;
+ letter-spacing: 0.038em;
+  color: #e86313de;
+}
+.rmenu{
+   width: 1320px;
+    height: 700px;
+    margin: auto;
+    border: 2px solid #d86a6ac2;
+    border-top: none;
+    background-color: #8BD5D9;
+}
+
+.Sitem {
+float: right;
+}
+
+.Sitem ul{
+    
+    text-align: center;
+margin: auto;
+padding-right: 120px;
+    
+}
+.Sitem ul li {
+    padding-right: 25px;
+    list-style: none;
+    display: inline-block;
+text-align: center;
+    padding-top: 20px;
+}
+
+
+.Sitem ul li a {
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 10px;
+    display: block;
+    padding: 20px 45px;
+    text-align: center;
+    margin: auto;
+    color: #AD1701;
+}
+
+.Sitem a:hover{
+    background-color: #fff;
+}
+
+.products {
+    display: flex;
+    padding: 40px 40px;
+    width: 1340px;
+    height: 500px;
+}
+.products div {
+width: 50%;
+}
+.products figure {
+position: relative;
+width: 667px;
+}
+
+.products figure img {
+display: block;
+width: 570px;
+height: 250px;
+float: inherit;
+}
+.products .pic1 figure{
+   
+    padding: 10px 30px;
+text-align: center;
+font-size: 27px;
+    margin-top: 27px;
+    font-family: 'Teko' ,sans-serif;
+    font-weight: 600;
+line-height: 40px;
+color: #017EB8D1;
+    width: 100%;
+    font-style: italic;
+}
+.food{
+    font-size: 47px;
+line-height: 61px;
+    letter-spacing: 0.094em;
+font-family: 'Lobster', cursive;
+   color:#384f63c7;
+}
+
+.products .pic2 figure{
+    float: right;
+}
+.owner{
+      font-family: 'Ropa Sans' ,sans-serif;
+     color: #954F44B8;
+    line-height: 35px;
+}
+.name{
+    font-size: 21px;
+line-height: 27px;
+letter-spacing: 0.118em;
+font-weight: 600;
+    font-family: 'Lobster', cursive;
+    color:#384f63c7;
+    
+}
+.menu-baritem1 .menu-baritem2 {
+    width: 1230px;
+    height: 200px;
+}
+.specialmenu{
+    display: flex;
+    padding: 70px 70px;
+     
+}
+.specialitem2{
+    display: flex;
+    padding: 70px 70px;
+}
+.first1 {
+    padding: 10px 10px;
+    font-family: 'Ropa Sans' ,sans-serif;
+    font-size: 22px;
+line-height: 1.9;
+letter-spacing: 0.036em;
+font-weight: 600;
+    color: #9c1616ba;
+}
+.first2 {
+    padding: 10px 10px;
+    font-family: 'Ropa Sans' ,sans-serif;
+    font-size: 22px;
+line-height: 1.9;
+letter-spacing: 0.036em;
+font-weight: 600;
+    color: #9c1616ba;
+    margin-left: 20px;
+}
+.first3 {
+    padding: 10px 10px;
+    font-family: 'Ropa Sans' ,sans-serif;
+    font-size: 22px;
+line-height: 1.9;
+letter-spacing: 0.036em;
+font-weight: 600;
+    color: #9c1616ba;
+}
+.first4{
+font-size: 21px;
+line-height: 1.5;
+letter-spacing: 0.03em;
+    font-weight: 600;
+ font-family: 'Ropa Sans' ,sans-serif;
+    color: #9c1616ba;
+}
+
+.first5{
+font-size: 21px;
+line-height: 1.5;
+letter-spacing: 0.03em;
+    font-weight: 600;
+ font-family: 'Ropa Sans' ,sans-serif;
+    color: #9c1616ba;
+    margin-left: 30px;
+}
+
+.first6{
+font-size: 21px;
+line-height: 1.5;
+letter-spacing: 0.03em;
+    font-weight: 600;
+ font-family: 'Ropa Sans' ,sans-serif;
+    color: #9c1616ba;
+    margin-left: 30px;
+}
+
+ .openingtime{   
+   display: flex;
+    background-image: url(../image/design-for-your-website.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     margin: 20px;
+     height: 450px;
+     padding: 20px 30px;
+     
+}
+.opening{
+width: 33.33%;
+color: #fff;
+font-size: 24px;
+line-height: 2;
+letter-spacing: 0.014em;
+font-weight: 500;
+font-style: italic;
+}
+.border1{
+  border-bottom: 1px solid #fff;
+font-size: 29px; 
+    text-align: center;
+    letter-spacing: 2.15px;
+line-height: 58px;
+font-size: 32px;
+}
+
+.final2{
+    width: 33.33%;
+color: #fff;
+margin: 0 40px;
+font-weight: 300;
+font-style: italic;
+    font-size: 21px;
+line-height: 1.7;
+letter-spacing: 0.134em;
+}
+
+.border{
+    border-bottom: 1px solid #fff;
+font-size: 34px;
+    text-align: center;
+}
+.gallery {
+    text-align: center;
+    border-bottom: 1px solid #fff;
+        font-size: 36px;
+    line-height: 56px;
+    letter-spacing: 2.75px;
+    font-weight: 700;
+    font-style: italic;
+}
+.location {
+    width: 1320px;
+    height: 500px;
+    margin: auto;
+   display: flex;
+}
+.map {
+    padding: 30px 30px;
+}
+.address {
+    padding: 100px 150px;
+    font-size: 39px;
+line-height: 1.3;
+letter-spacing: 0.053em;
+    font-family: 'Ropa Sans' ,sans-serif;
+font-weight: 700;
+    color: #22aea7;
+background-color: #efeaea;
+}
+.about {
+    width: 850px;
+    height: 420px;
+    border: 2px solid black;
+    margin: 100px auto;
+    text-align: center;
+    padding: 15px 10px;
+    background-image: url(../image/llljpg.jpg);
+       background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #04ffff;
+    font-size: 30px;
+line-height: 1.4;
+letter-spacing: 0.026em;
+font-weight: 600;
+font-style: italic;
+}
+    
+.add   {
+    font-size: 42px;
+    line-height: 59px;
+    letter-spacing: 7.76px;
+    font-weight: 400;
+    font-style: italic;
+     font-family: 'Teko' ,sans-serif;
+}
+.addloc{
+    font-size: 37px;
+line-height: 48px;
+letter-spacing: 6.35px;
+font-style: italic;
+    font-family: 'Lobster', cursive;
+    
+}
+.customer {
+    width: 1320px;
+     height: 400px;
+    margin: auto;
+    border: 1px solid black;
+    background-color: #00415F;
+}
+.topline {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 42px;
+line-height: 1.6;
+letter-spacing: 0.214em;
+font-weight: 500;
+     font-family: 'Lobster', cursive;
+    color: #f4f4f4;
+}
+.mainreview {
+    padding: 0 90px;
+    text-align: center;
+    font-size: 26px;
+    line-height: 1.3;
+    letter-spacing: 0.078em;
+    color: #b1aaaad6;
+    padding-top: 35px;
+}
+.reviwerimages {
+    width: 50px;
+    height: 50px;
+    border-radius: 55px;
+}
+.star {
+    text-align: center;
+   color:  #f1eee8c9;
+         font-size: 25px;
+line-height: 0.2;
+letter-spacing: 0.286em;
+        
+}
+.footer {
+    width: 1320px;
+    height: 100px;
+    
+}
+.footerdiv{
+     width: 1320px;
+     height: 100px;
+     background-color: #00415F;
+    margin: 10px 10px;
+}
+.footerdivtext{
+    font-size: 19px;
+text-align: center;
+font-weight: 600;
+    font-style: italic;
+    font-family: 'Ropa Sans' ,sans-serif;
+    color: white;
+    padding-top: 23px;
+}
+.socialmedia{
+    font-size: 30px;
+letter-spacing: 0.278em;
+font-style: normal;
+text-align: center;
+    color: white;
+    
+}
